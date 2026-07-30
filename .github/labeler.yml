@@ -54,6 +54,11 @@ integration:brave:
       - any-glob-to-any-file: "integrations/brave/**/*"
       - any-glob-to-any-file: ".github/workflows/brave.yml"
 
+integration:exa:
+  - changed-files:
+      - any-glob-to-any-file: "integrations/exa/**/*"
+      - any-glob-to-any-file: ".github/workflows/exa.yml"
+
 integration:azure-ai-search:
   - changed-files:
       - any-glob-to-any-file: "integrations/azure_ai_search/**/*"

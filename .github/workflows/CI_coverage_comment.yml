@@ -28,6 +28,7 @@ on:
       - "Test / e2b"
       - "Test / edenai"
       - "Test / elasticsearch"
+      - "Test / exa"
       - "Test / faiss"
       - "Test / falkordb"
       - "Test / fastembed"
